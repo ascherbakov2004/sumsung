@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495300516518",
+    "project_id": "weearthapp",
+    "storage_bucket": "weearthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495300516518:android:1b59a5837139deee627267",
+        "android_client_info": {
+          "package_name": "com.example.weearthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495300516518-pcfel9pqji7i83b02auva670m8vt1tf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNIm8QjmxH4uluOgI0dt8RgNET9ElQuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495300516518-pcfel9pqji7i83b02auva670m8vt1tf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
